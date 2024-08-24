@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Portal Católico do Brasil
 
-`CURSO`
+`Tecnologia em Análise e Desenv. de Sistemas - EAD - UNID. EDUC. PUC MINAS VIRTUAL - PUV - Virtual`
 
-`DISCIPLINA`
+`Eixo 2 - Projeto: Desenvolvimento de uma Aplicação Interativa - Turma 07 - 2024/2`
 
-`SEMESTRE`
+`Eixo 2 - 2024/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto visa solucionar a dificuldade que muitos católicos enfrentam ao buscar informações online sobre paróquias e arquidioceses, como localização de igrejas, horários de missas e agendas de eventos. Para isso, propõe-se o desenvolvimento de um portal prático e acessível, que oferecerá funcionalidades como busca por geolocalização, informações diárias de liturgia e homilia, notícias católicas, agenda de eventos e espaço para publicidades.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Arthur Gonçalves Vieira
+* Estevão Barboza da Gama dos Reis Silva
+* Gabriel Barboza da Gama Reis Silva
+* João Henrique Andrade Leite
+* Paulo Henrique Sousa Carvalho
+* Thainá Crisóstomo Bernardes
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
